@@ -1,0 +1,6 @@
+# Steps to install SASS on Windows
+
+1. Download and install the latest Node.js version from: https://nodejs.org/en/download/
+2. Open Command Prompt, PowerShell or Git Bash.
+3. Navigate to the project directory.
+4. Run 'npm install sass@3.7.4' to install SASS.
